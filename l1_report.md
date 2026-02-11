@@ -11,9 +11,9 @@ CSCI 5742/CSCY 4742: Cybersecurity Programming and Analytics, Spring 2026
 
 ### **Screenshots**
 
-![Script running 1](./screenshots/script_ss_1.png)
+![Script running 1](screenshots/script_ss_1.png)
 
-![Script running 2](./screenshots/script_ss_2.png)
+![Script running 2](screenshots/script_ss_2.png)
 
 ---
 
